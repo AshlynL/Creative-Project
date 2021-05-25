@@ -1,3 +1,3 @@
-#Tic Tac Toe
+# Tic Tac Toe
 
 Tic Tac Toe Game programmed for web programming course.
